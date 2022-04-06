@@ -5,6 +5,10 @@
 -- Replace with student information --
 
 - Oliver Sjödin olsj21@bth.student.se
+- Adam Mützell
+- Muhamed Hussein
+- Abbe Möllerström
+- Oliver Ivarsson
 
 ## Project Description
 
