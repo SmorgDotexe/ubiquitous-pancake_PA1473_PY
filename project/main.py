@@ -5,5 +5,5 @@ import __init__
 def main(): #Main Class
     return 0
 
-if __name__ == '__main__':
+if __name__ == '__main__': #Keep this!
     sys.exit(main())
