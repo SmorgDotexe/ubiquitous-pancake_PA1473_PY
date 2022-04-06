@@ -5,7 +5,14 @@
 -- Replace with student information --
 
 - Oliver Sjödin olsj21@bth.student.se
+<<<<<<< HEAD
 - Adam Mützell admt21@bth.student.se
+=======
+- Adam Mützell
+- Muhamed Hussein
+- Abbe Möllerström
+- Oliver Ivarsson
+>>>>>>> 09b3a161169ea73323f84bbc8a317ab2cbde80ab
 
 ## Project Description
 
@@ -18,13 +25,13 @@
 - [ ] This is a user story the is incomplete
 - [x] This is a user story that is complete
 
-- [ ] Have a truck pickup an item (pallet).
-- [ ] Have a truck follow a predetermined path.
-- [ ] Have a truck follow a specified path from multiple options.
-- [ ] Have a truck pick up an item from an elevated surface.
-- [ ] Have a truck recognize that the picking-up of an item failed.
-- [ ] Have a truck recognize a misplaced item.
-- [ ] Have trucks avoid collisions of trucks.
+- [ ] Have a truck pickup an item (pallet). 8 User story points
+- [ ] Have a truck follow a predetermined path. 2 Useer story points
+- [ ] Have a truck follow a specified path from multiple options. 13 USP
+- [ ] Have a truck pick up an item from an elevated surface. 8 USP
+- [ ] Have a truck recognize that the picking-up of an item failed. 2 USP
+- [ ] Have a truck recognize a misplaced item. 13 USP
+- [ ] Have trucks avoid collisions of trucks. 3 USP
 - [ ] Specify what color of object that the truck shall collect.
 - [ ] Abort the collection of a item.
 - [ ] Change the color specification of a pickup-item without aborting the operation.
