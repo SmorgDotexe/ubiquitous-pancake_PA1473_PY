@@ -22,16 +22,16 @@
 - [x] This is a user story that is complete
 
 - [ ] Have a truck pickup an item (pallet). 8 User story points
-- [ ] Have a truck follow a predetermined path. 2 Useer story points
+- [ ] Have a truck follow a predetermined path. 2 User story points
 - [ ] Have a truck follow a specified path from multiple options. 13 USP
 - [ ] Have a truck pick up an item from an elevated surface. 8 USP
 - [ ] Have a truck recognize that the picking-up of an item failed. 2 USP
 - [ ] Have a truck recognize a misplaced item. 13 USP
 - [ ] Have trucks avoid collisions of trucks. 3 USP
-- [ ] Specify what color of object that the truck shall collect.
-- [ ] Abort the collection of a item.
-- [ ] Change the color specification of a pickup-item without aborting the operation.
-- [ ] Be notified if a truck have left the specified area.
-- [ ] Be informed by what operation a truck is performing.
-- [ ] Exit the specified area in a safe manner.
-- [ ] Return to the specified area in a safe manner.
+- [ ] Specify what color of object that the truck shall collect. 8 USP
+- [ ] Abort the collection of a item. 8 USP
+- [ ] Change the color specification of a pickup-item without aborting the operation. 20 USP
+- [ ] Be notified if a truck have left the specified area. 2 USP
+- [ ] Be informed by what operation a truck is performing. 2 USP
+- [ ] Exit the specified area in a safe manner. 5 USP
+- [ ] Return to the specified area in a safe manner. 3 USP
