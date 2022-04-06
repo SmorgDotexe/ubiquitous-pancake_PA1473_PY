@@ -5,14 +5,10 @@
 -- Replace with student information --
 
 - Oliver Sjödin olsj21@bth.student.se
-<<<<<<< HEAD
 - Adam Mützell admt21@bth.student.se
-=======
-- Adam Mützell
 - Muhamed Hussein
 - Abbe Möllerström
 - Oliver Ivarsson
->>>>>>> 09b3a161169ea73323f84bbc8a317ab2cbde80ab
 
 ## Project Description
 
