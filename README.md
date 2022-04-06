@@ -5,6 +5,7 @@
 -- Replace with student information --
 
 - Oliver Sjödin olsj21@bth.student.se
+- Adam Mützell admt21@bth.student.se
 
 ## Project Description
 
