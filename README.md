@@ -8,7 +8,7 @@
 - Adam Mützell admt21@bth.student.se
 - Mohamed Hussein mohs21@student.bth.se
 - Abbe Möllerström abmo21@student.bth.se
-- Oliver Ivarsson
+- Oliver Ivarsson Oliv20@student.bth.se
 
 ## Project Description
 
